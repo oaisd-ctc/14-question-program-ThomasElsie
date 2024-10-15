@@ -34,6 +34,6 @@ public class Program
         Console.WriteLine("My friend's name is " + name + ". " + name + " is " + age + " years old. " + name + " has " + eye + " eyes. " + name + " has " + hair + " hair. "
          + name + " has a shoe size of " + shoe + ". " + name + "'s favorite color is " + color + ". " + name + "'s favorite movie is " + movie + ". " + name + "'s favorite teacher is "
           + teacher + ". " + name + "'s favorite class is " + clas + ". " + name + "'s favorite holiday is " + holiday + ". " + name + "'s prefered season is " + season + ". "
-           + name + "'s dream job is to be an " + job + ". " + name + "'s has a total number of " + siblings + " siblings." + name + " will be " + (number + 5) + " years old in 5 years.");
+           + name + "'s dream job is to be an " + job + ". " + name + "'s has a total number of " + siblings + " siblings. " + name + " will be " + (number + 5) + " years old in 5 years.");
     }
 }
